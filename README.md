@@ -11,3 +11,7 @@ pyinstaller cli.py -n aw-watcher-winlock --onefile
 ```
 
 Copy `dist/aw-watcher-winlock.exe` to somewhere in your PATH, and your aw-qt should recognize it.
+
+## Credits
+
+Many code from the official [aw-watcher-afk](https://github.com/ActivityWatch/aw-watcher-afk) repo.
